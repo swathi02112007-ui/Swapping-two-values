@@ -18,7 +18,18 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
+~~~
+a = 10
+b = 20
+print("Before Swap: a=",a,"b=",b)
+temp = a
+a = b
+b = temp
+print("After Swap: a=",a,"b=",b)
+~~~
+#OUTPUT:
 
+<img width="1847" height="328" alt="Screenshot 2026-06-27 123333" src="https://github.com/user-attachments/assets/5c12e70e-1b41-4e2c-b187-e20a10161d49" />
 
 
 ## RESULT:
